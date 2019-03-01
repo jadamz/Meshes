@@ -1,7 +1,10 @@
+/*
+ * Write what this does and who made it here
+ */
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
 using UnityEngine;
 using UnityEditor;
 
